@@ -1,6 +1,6 @@
 # Interzero — Website Concept
 
-A single-page website mockup for **Interzero** (circular economy / "zero waste solutions"),
+A single-page website mockup for **Interzero Austria** (circular economy / "zero waste solutions"),
 built as a design concept.
 
 ## Design references
@@ -20,6 +20,8 @@ The visual language fuses two references:
   circular-economy green `#b7f04a`
 - **Hero:** rotating circular-loop diagram (SORT → RECYCLE → RETURN → REUSE around an ∞
   core) plus a scrolling ticker strip
+- **Austria localization:** Vienna coordinates in the utility bar, AT country code in
+  the logo, Austrian news items and footer disclaimer
 - **Stats:** animated counters based on real Interzero figures (8.1M tonnes primary raw
   materials saved, 80,000+ customers, 10 European countries, 1.0M t CO₂e avoided)
 - **Systems:** four alternating light/dark blocks — Circular Solutions, Plastics

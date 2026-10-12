@@ -102,6 +102,16 @@ em { font-style: normal; }
 }
 .logo-type { font-weight: 700; font-size: 1.25rem; letter-spacing: .06em; }
 .logo-type em { color: var(--green-deep); }
+.logo-cc {
+  font-family: var(--font-mono);
+  font-size: .55em;
+  letter-spacing: .2em;
+  color: var(--paper);
+  background: var(--green-deep);
+  padding: .15em .4em;
+  vertical-align: middle;
+  margin-left: .3em;
+}
 
 .nav-links { display: none; gap: 2rem; }
 .nav-links a {
